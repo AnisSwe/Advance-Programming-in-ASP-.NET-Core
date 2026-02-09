@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\controllers\\biocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\biocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\views\\home\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|c:\\users\\user\\source\\repos\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB069E6-268B-4786-8491-A136984C15E5}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Project.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Project.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Project.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Home\\Project.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:35:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:34:49.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Education.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Education.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Education.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Home\\Education.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:29:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\EducationController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\EducationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:28:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BioController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\BioController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\BioController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\BioController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\BioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:27:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:26:36.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bio.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Bio.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Bio.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Bio.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Home\\Bio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:17:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:13:34.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:07:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\Program.cs",
+              "RelativeToolTip": "portfolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:07:16.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
