@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|c:\\my downloads\\aiub materials\\asp dot net\\practice\\practice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|solutionrelative:practice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|c:\\my downloads\\aiub materials\\asp dot net\\practice\\practice\\views\\homecontrolle2r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|solutionrelative:practice\\views\\homecontrolle2r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|c:\\my downloads\\aiub materials\\asp dot net\\practice\\practice\\views\\anis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|solutionrelative:practice\\views\\anis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|c:\\my downloads\\aiub materials\\asp dot net\\practice\\practice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|solutionrelative:practice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|c:\\my downloads\\aiub materials\\asp dot net\\practice\\practice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEED6551-1F35-4A05-995B-698A4442DDFD}|practice\\practice.csproj|solutionrelative:practice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "practice\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "practice\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:23:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeControlle2r.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\HomeControlle2r.cs",
+              "RelativeDocumentMoniker": "practice\\Views\\HomeControlle2r.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\HomeControlle2r.cs",
+              "RelativeToolTip": "practice\\Views\\HomeControlle2r.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:22:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anis.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\Anis.cs",
+              "RelativeDocumentMoniker": "practice\\Views\\Anis.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\Anis.cs",
+              "RelativeToolTip": "practice\\Views\\Anis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:22:31.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "practice\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "practice\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:21:46.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "practice\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\practice\\practice\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "practice\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:21:45.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

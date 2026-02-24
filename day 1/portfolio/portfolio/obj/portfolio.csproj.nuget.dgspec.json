@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\portfolio.csproj": {}
+    "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\day 1\\portfolio\\portfolio\\portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\portfolio.csproj": {
+    "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\day 1\\portfolio\\portfolio\\portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\portfolio.csproj",
+        "projectUniqueName": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\day 1\\portfolio\\portfolio\\portfolio.csproj",
         "projectName": "portfolio",
-        "projectPath": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\portfolio.csproj",
+        "projectPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\day 1\\portfolio\\portfolio\\portfolio.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\portfolio\\portfolio\\obj\\",
+        "outputPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\day 1\\portfolio\\portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

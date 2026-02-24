@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebApplication1.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee Table";
+}
+
+<h2>Employee Directory</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Salary</th>
+            <th>Designation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                @* Conditional: Manager → Bold text *@
+                @if (employee.Designation == "Manager")
+                {
+                    <td><strong>@employee.Name</strong></td>
+                }
+                else
+                {
+                    <td>@employee.Name</td>
+                }
+
+                @* Conditional: Salary > 50,000 → Green text *@
+                @if (employee.Salary > 50000)
+                {
+                    <td style="color: green; font-weight: bold;">
+                        @employee.Salary.ToString("C")
+                    </td>
+                }
+                else
+                {
+                    <td>@employee.Salary.ToString("C")</td>
+                }
+
+                <td>@employee.Designation</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* Display total employee count *@
+<div class="alert alert-info mt-3">
+    <strong>Total Employees: @Model.Count()</strong>
+</div>

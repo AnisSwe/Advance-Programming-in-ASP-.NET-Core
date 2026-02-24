@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|c:\\my downloads\\aiub materials\\asp dot net\\webapplication1\\webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{187F0B1F-BCBA-430E-B880-6CA8C251E7C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:45:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:45:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-23T10:44:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:43:31.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:42:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:41:55.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-23T10:41:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:41:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:41:26.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:39:33.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:38:08.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:37:10.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

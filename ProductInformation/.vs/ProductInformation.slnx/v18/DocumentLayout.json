@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|c:\\my downloads\\aiub materials\\asp dot net\\productinformation\\productinformation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2642D-E417-3467-8E35-B93B79441E25}|ProductInformation\\ProductInformation.csproj|solutionrelative:productinformation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductInformation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductInformation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:55:27.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductInformation\\Program.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Program.cs",
+              "RelativeToolTip": "ProductInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:53:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProductInformation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProductInformation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:51:21.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProductInformation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProductInformation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:51:28.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductInformation\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductInformation\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:48:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductInformation\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductInformation\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T11:48:22.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductInformation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductInformation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:38:04.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductInformation\\Models\\Product.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\ProductInformation\\ProductInformation\\Models\\Product.cs",
+              "RelativeToolTip": "ProductInformation\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:34:52.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

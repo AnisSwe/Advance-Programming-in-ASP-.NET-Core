@@ -1,0 +1,40 @@
+﻿@model ProductInformation.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1>Product Details</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h3 class="card-title">@Model.Name</h3>
+
+        <dl class="row">
+            <dt class="col-sm-3">ID:</dt>
+            <dd class="col-sm-9">@Model.Id</dd>
+
+            <dt class="col-sm-3">Price:</dt>
+            <dd class="col-sm-9">@Model.Price.ToString("C")</dd>
+
+            <dt class="col-sm-3">Category:</dt>
+            <dd class="col-sm-9">@Model.Category</dd>
+        </dl>
+
+        <!-- Conditional rendering: Show "Premium Product" if price > 1000 -->
+        @if (Model.Price > 1000)
+        {
+            <div class="alert alert-warning">
+                <strong>⭐ Premium Product</strong>
+            </div>
+        }
+
+        <!-- Alternative syntax using Razor ternary operator -->
+        <!-- @(Model.Price > 1000 ? Html.Raw("<span class='badge bg-warning'>Premium Product</span>") : Html.Raw("")) -->
+    </div>
+</div>
+
+<p>
+    <a href="/Product/Index">← Back to List</a>
+    <!-- Or use: @Html.ActionLink("← Back to List", "Index") -->
+</p>
