@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A7492E-3AEF-47EB-8CF2-68427E8257B3}|Course\\Course.csproj|c:\\my downloads\\aiub materials\\asp dot net\\course\\course\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A7492E-3AEF-47EB-8CF2-68427E8257B3}|Course\\Course.csproj|solutionrelative:course\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A7492E-3AEF-47EB-8CF2-68427E8257B3}|Course\\Course.csproj|c:\\my downloads\\aiub materials\\asp dot net\\course\\course\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A7492E-3AEF-47EB-8CF2-68427E8257B3}|Course\\Course.csproj|solutionrelative:course\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A7492E-3AEF-47EB-8CF2-68427E8257B3}|Course\\Course.csproj|c:\\my downloads\\aiub materials\\asp dot net\\course\\course\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28A7492E-3AEF-47EB-8CF2-68427E8257B3}|Course\\Course.csproj|solutionrelative:course\\views\\course\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\Course\\Views\\Course\\List.cshtml",
+              "RelativeDocumentMoniker": "Course\\Views\\Course\\List.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\Course\\Views\\Course\\List.cshtml",
+              "RelativeToolTip": "Course\\Views\\Course\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T18:35:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\Course\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Course\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\Course\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Course\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:23:32.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\Course\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Course\\Models\\Courses.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\Course\\Course\\Models\\Courses.cs",
+              "RelativeToolTip": "Course\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:20:07.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

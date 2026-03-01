@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Course.Models.Courses>
+@{
+    ViewData["Title"] = "Course List";
+}
+
+<h2>Course List</h2>
+
+<p>
+    <!-- Quick Navigation Links to test routing -->
+    Show:
+    <a asp-action="List" asp-controller="Course">All</a> |
+    <a asp-action="List" asp-controller="Course" asp-route-semester="Fall">Fall</a> |
+    <a asp-action="List" asp-controller="Course" asp-route-semester="Spring">Spring</a> |
+    <a asp-action="List" asp-controller="Course" asp-route-semester="Summer">Summer</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Credit</th>
+            <th>Semester</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.Title</td>
+                <td>@course.Credit</td>
+                <td>@course.Semester</td>
+            </tr>
+        }
+    </tbody>
+</table>
