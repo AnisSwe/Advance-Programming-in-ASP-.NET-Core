@@ -1,0 +1,15 @@
+﻿@model FormProcessing.Models.LoginModel
+@if (Model != null)
+{
+    <h3>@Model.UName</h3>
+
+}
+@Html.ValidationSummary()
+
+<form method="post" action="">
+    <input type="text" name="UName" value="@Model.UName" class="form-control" placeholder="Username" />
+    <span class="text-danger">@Html.ValidationMessage("UName")</span>
+    <input type="password" name="Pass" class="form-control" placeholder="Password" />
+    <span class="text-danger">@Html.ValidationMessage("Pass")</span>
+    <input type="submit" value="Login" class="btn btn-success" />
+</form>

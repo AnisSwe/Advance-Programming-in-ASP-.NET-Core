@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|c:\\my downloads\\aiub materials\\asp tanvir\\.netsp26_c-master\\formprocessing\\formprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E15E62B2-3CA7-BC01-C665-FCAFDC264FF1}|FormProcessing\\FormProcessing.csproj|solutionrelative:formprocessing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormProcessing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormProcessing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T11:43:09.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FormProcessing\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FormProcessing\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T11:43:06.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FormProcessing\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FormProcessing\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T11:43:04.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\appsettings.json",
+              "RelativeDocumentMoniker": "FormProcessing\\appsettings.json",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\appsettings.json",
+              "RelativeToolTip": "FormProcessing\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T11:42:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "FormProcessing\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "FormProcessing\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T05:31:32.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "FormProcessing\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "FormProcessing\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:29:26.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "FormProcessing\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Models\\LoginModel.cs",
+              "RelativeToolTip": "FormProcessing\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T04:37:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "FormProcessing\\Program.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Program.cs",
+              "RelativeToolTip": "FormProcessing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:01:18.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "FormProcessing\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "FormProcessing\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T05:58:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FormProcessing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\asp tanvir\\.NetSp26_C-master\\FormProcessing\\FormProcessing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FormProcessing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:57:44.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
