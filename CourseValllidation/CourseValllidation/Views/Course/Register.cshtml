@@ -1,0 +1,44 @@
+﻿@model CourseModel
+
+<h2>Course Registration</h2>
+
+<form method="post">
+
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    <!-- Course Title -->
+    <div class="mb-3">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" placeholder="e.g. Data Structures" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+        <!-- Shows: 'spam' is not allowed in Course Title -->
+    </div>
+
+    <!-- Credit -->
+    <div class="mb-3">
+        <label asp-for="Credit"></label>
+        <input asp-for="Credit" class="form-control" placeholder="e.g. 3" />
+        <span asp-validation-for="Credit" class="text-danger"></span>
+        <!-- Shows: Credit must be between 1 and 4 -->
+    </div>
+
+    <!-- Semester -->
+    <div class="mb-3">
+        <label asp-for="Semester"></label>
+        <input asp-for="Semester" class="form-control" placeholder="e.g. Fall-2024" />
+        <span asp-validation-for="Semester" class="text-danger"></span>
+        <!-- Shows: Semester must be like Fall-2024 or Spring-2025 -->
+    </div>
+
+    <!-- Course Code -->
+    <div class="mb-3">
+        <label asp-for="CourseCode"></label>
+        <input asp-for="CourseCode" class="form-control" placeholder="e.g. CS-101" />
+        <span asp-validation-for="CourseCode" class="text-danger"></span>
+        <!-- Shows: Course code must be like CS-101 -->
+    </div>
+
+    <button type="submit" class="btn btn-success">Register Course</button>
+    <a href="/Course/List" class="btn btn-secondary">View All Courses</a>
+
+</form>

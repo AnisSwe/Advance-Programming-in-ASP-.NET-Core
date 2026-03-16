@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD731899-1BE6-4EB3-B8A0-0302F003EBF3}|SchoolApp\\SchoolApp.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolapp\\schoolapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD731899-1BE6-4EB3-B8A0-0302F003EBF3}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD731899-1BE6-4EB3-B8A0-0302F003EBF3}|SchoolApp\\SchoolApp.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolapp\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD731899-1BE6-4EB3-B8A0-0302F003EBF3}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD731899-1BE6-4EB3-B8A0-0302F003EBF3}|SchoolApp\\SchoolApp.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolapp\\schoolapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD731899-1BE6-4EB3-B8A0-0302F003EBF3}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\SchoolApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\SchoolApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SchoolApp\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:31:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\SchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Program.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\SchoolApp\\Program.cs",
+              "RelativeToolTip": "SchoolApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:30:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\SchoolApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolApp\\appsettings.json",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolApp\\SchoolApp\\appsettings.json",
+              "RelativeToolTip": "SchoolApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T19:28:28.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

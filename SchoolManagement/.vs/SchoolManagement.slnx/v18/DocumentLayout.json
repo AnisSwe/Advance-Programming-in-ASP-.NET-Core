@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\schoolmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\schoolmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|c:\\my downloads\\aiub materials\\asp dot net\\schoolmanagement\\schoolmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60943070-20C5-BA9E-05E6-D8C2D27D9C91}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagement\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagement\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:09:27.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagement\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagement\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:08:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:06:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Program.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\Program.cs",
+              "RelativeToolTip": "SchoolManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:05:34.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "SchoolManagement\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:05:05.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolManagement.csproj",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement\\SchoolManagement.csproj",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj",
+              "RelativeToolTip": "SchoolManagement\\SchoolManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T11:00:36.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagement\\appsettings.json",
+              "ToolTip": "C:\\My Downloads\\AIUB MATERIALS\\ASP dot net\\SchoolManagement\\SchoolManagement\\appsettings.json",
+              "RelativeToolTip": "SchoolManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T10:59:55.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

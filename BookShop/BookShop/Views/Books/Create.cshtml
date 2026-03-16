@@ -1,0 +1,34 @@
+﻿@model BookShop.EF.Tables.Book
+
+@{
+    ViewData["Title"] = "Create Book";
+}
+
+<h1>Create New Book</h1>
+
+<form asp-action="Create">
+    <table class="table table-bordered">
+        <tr>
+            <td>Name</td>
+            <td><input asp-for="Name" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td>ISBN</td>
+            <td><input asp-for="Isbn" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><input asp-for="Price" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td>Author Name</td>
+            <td><input asp-for="AuthorName" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back</a>
+            </td>
+        </tr>
+    </table>
+</form>

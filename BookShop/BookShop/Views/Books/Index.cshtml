@@ -1,0 +1,79 @@
+﻿@model IEnumerable<BookShop.EF.Tables.Book>
+
+@{
+    ViewData["Title"] = "Books List";
+}
+
+<h1>Book Shop</h1>
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">@TempData["Msg"]</div>
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Book</a>
+</p>
+
+<!-- Books in Price Range 100-300 -->
+<h3>Books in Price Range 100 - 300</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Isbn</th>
+            <th>Price</th>
+            <th>Author</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.PriceRangeBooks)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Isbn</td>
+             
+                <td>@item.Price.ToString("C", new System.Globalization.CultureInfo("bn-BD"))</td>
+                <td>@item.AuthorName</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Are you sure?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<!-- All Books -->
+<h3>All Books</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Isbn</th>
+            <th>Price</th>
+            <th>Author</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Isbn</td>
+                <td>@item.Price.ToString("C", new System.Globalization.CultureInfo("bn-BD"))</td>
+                <td>@item.AuthorName</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Are you sure?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
