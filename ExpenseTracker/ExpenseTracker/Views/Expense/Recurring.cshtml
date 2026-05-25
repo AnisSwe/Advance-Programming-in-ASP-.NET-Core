@@ -1,0 +1,21 @@
+﻿@model List<BLL.DTO.ExpenseDTO>
+@{
+    ViewData["Title"] = "Recurring Expenses";
+}
+<h4>Recurring Expenses</h4>
+@if (!Model.Any())
+{
+    <p class="text-muted">No recurring expenses found.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead class="table-dark"><tr><th>Category</th><th>Description</th><th>Amount</th><th>Last Date</th></tr></thead>
+        <tbody>
+            @foreach (var e in Model)
+            {
+                <tr><td>@e.CategoryName</td><td>@e.Description</td><td>@e.Amount BDT</td><td>@e.Date</td></tr>
+            }
+        </tbody>
+    </table>
+}

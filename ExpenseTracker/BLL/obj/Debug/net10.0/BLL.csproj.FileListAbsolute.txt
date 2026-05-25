@@ -1,0 +1,17 @@
+E:\DOTNET Project\ExpenseTracker\BLL\bin\Debug\net10.0\BLL.deps.json
+E:\DOTNET Project\ExpenseTracker\BLL\bin\Debug\net10.0\BLL.runtimeconfig.json
+E:\DOTNET Project\ExpenseTracker\BLL\bin\Debug\net10.0\BLL.dll
+E:\DOTNET Project\ExpenseTracker\BLL\bin\Debug\net10.0\BLL.pdb
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.dll
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\refint\BLL.dll
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.pdb
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.genruntimeconfig.cache
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\ref\BLL.dll
+E:\DOTNET Project\ExpenseTracker\BLL\bin\Debug\net10.0\DAL.dll
+E:\DOTNET Project\ExpenseTracker\BLL\bin\Debug\net10.0\DAL.pdb
+E:\DOTNET Project\ExpenseTracker\BLL\obj\Debug\net10.0\BLL.csproj.Up2Date

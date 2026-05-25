@@ -1,0 +1,26 @@
+﻿@model List<BLL.DTO.BudgetDTO>
+@{
+    ViewData["Title"] = "Budgets";
+}
+<h4>My Budgets</h4>
+<a asp-action="Create" class="btn btn-primary mb-3">+ Add Budget</a>
+<a asp-action="Report" class="btn btn-info mb-3 ms-2">📊 View Report</a>
+<table class="table table-bordered">
+    <thead class="table-dark"><tr><th>Category</th><th>Month</th><th>Limit (BDT)</th><th>Actions</th></tr></thead>
+    <tbody>
+        @foreach (var b in Model)
+        {
+            <tr>
+                <td>@b.CategoryName</td>
+                <td>@b.MonthYear</td>
+                <td>@b.LimitAmount</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@b.BudgetId" class="btn btn-sm btn-warning">Edit</a>
+                    <form method="post" asp-action="Delete" asp-route-id="@b.BudgetId" style="display:inline">
+                        <button class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

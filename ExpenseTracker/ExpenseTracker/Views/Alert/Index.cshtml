@@ -1,0 +1,21 @@
+﻿@model List<BLL.DTO.AlertDTO>
+@{
+    ViewData["Title"] = "Alerts";
+}
+<h4>🔔 My Alerts</h4>
+@if (!Model.Any())
+{
+    <p class="text-muted">No alerts.</p>
+}
+else
+{
+    <ul class="list-group">
+        @foreach (var a in Model)
+        {
+            <li class="list-group-item @(a.IsRead ? "" : "list-group-item-warning")">
+                <span>@a.Message</span>
+                <small class="text-muted float-end">@a.CreatedAt?.ToString("dd MMM yyyy HH:mm")</small>
+            </li>
+        }
+    </ul>
+}

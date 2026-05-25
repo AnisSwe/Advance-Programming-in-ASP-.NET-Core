@@ -1,0 +1,52 @@
+﻿@model BLL.DTO.SummaryDTO
+@{
+    ViewData["Title"] = "Monthly Summary";
+}
+
+<h4>Monthly Summary — @Model.MonthYear</h4>
+
+<form method="get" class="row g-2 mb-4">
+    <div class="col-md-2">
+        <input type="number" name="year" value="@DateTime.Now.Year" class="form-control" placeholder="Year" />
+    </div>
+    <div class="col-md-2">
+        <input type="number" name="month" value="@DateTime.Now.Month" class="form-control" placeholder="Month (1-12)" />
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-primary">View</button>
+    </div>
+</form>
+
+@if (Model.TotalTransactions == 0)
+{
+    <div class="alert alert-info">No expenses found for this month.</div>
+}
+else
+{
+    <div class="row g-3">
+        <div class="col-md-3">
+            <div class="card text-white bg-primary p-3">
+                <h6>Total Spent</h6>
+                <h4>@Model.TotalSpent BDT</h4>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-success p-3">
+                <h6>Daily Average</h6>
+                <h4>@Model.DailyAverage.ToString("F2") BDT</h4>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-warning p-3">
+                <h6>Top Category</h6>
+                <h4>@Model.TopCategory</h4>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-info p-3">
+                <h6>Total Transactions</h6>
+                <h4>@Model.TotalTransactions</h4>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,13 @@
+﻿@model BLL.DTO.ExpenseDTO
+@{
+    ViewData["Title"] = "Delete Expense";
+}
+<h4>Are you sure you want to delete this expense?</h4>
+<p><strong>Category:</strong> @Model.CategoryName</p>
+<p><strong>Amount:</strong> @Model.Amount BDT</p>
+<p><strong>Date:</strong> @Model.Date</p>
+<form method="post">
+    <input type="hidden" name="id" value="@Model.ExpenseId" />
+    <button class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,27 @@
+﻿@model List<BLL.DTO.ExpenseDTO>
+@{
+    ViewData["Title"] = "My Expenses";
+}
+<h4>My Expenses</h4>
+<a asp-action="Create" class="btn btn-primary mb-3">+ Add Expense</a>
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr><th>Date</th><th>Category</th><th>Description</th><th>Amount</th><th>Recurring</th><th>Actions</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Date</td>
+                <td>@e.CategoryName</td>
+                <td>@e.Description</td>
+                <td>@e.Amount BDT</td>
+                <td>@(e.IsRecurring ? "✅" : "")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@e.ExpenseId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@e.ExpenseId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

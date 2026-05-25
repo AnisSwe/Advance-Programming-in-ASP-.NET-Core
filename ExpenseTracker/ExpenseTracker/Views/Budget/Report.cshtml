@@ -1,0 +1,40 @@
+﻿@model List<BLL.DTO.BudgetDTO>
+@{
+    ViewData["Title"] = "Budget vs Actual Report";
+}
+
+<h4>Budget vs Actual — @ViewBag.MonthYear</h4>
+
+<form method="get" class="row g-2 mb-4">
+    <div class="col-md-3">
+        <input type="month" name="monthYear" value="@ViewBag.MonthYear" class="form-control" />
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-primary">View</button>
+    </div>
+</form>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No budgets set for this month.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr><th>Category</th><th>Budget (BDT)</th><th>Spent (BDT)</th><th>Remaining</th><th>Status</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model)
+            {
+                <tr class="@(b.IsExceeded ? "table-danger" : "table-success")">
+                    <td>@b.CategoryName</td>
+                    <td>@b.LimitAmount</td>
+                    <td>@b.TotalSpent</td>
+                    <td>@(b.LimitAmount - b.TotalSpent) BDT</td>
+                    <td>@(b.IsExceeded ? "⚠️ Exceeded" : "✅ OK")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

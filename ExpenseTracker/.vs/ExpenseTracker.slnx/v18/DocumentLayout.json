@@ -1,0 +1,689 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOTNET Project\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\recurring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\recurring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\repo\\alertrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\alertrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\dto\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\repo\\expenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\expenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\repo\\budgetrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\budgetrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\dto\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\budget\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\budget\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\budget\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\budget\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\budget\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\budget\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\budget\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\budget\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\alert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\alert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|e:\\dotnet project\\expensetracker\\expensetracker\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\dto\\summarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\summarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\dto\\alertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\alertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\ef\\expensetrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\expensetrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet project\\expensetracker\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet project\\expensetracker\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\BudgetService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BudgetService.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\BudgetService.cs",
+              "RelativeToolTip": "BLL\\Services\\BudgetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:10:11.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "ExpenseTracker\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:24:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:01:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:13:12.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:29:30.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlertService.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\AlertService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AlertService.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\AlertService.cs",
+              "RelativeToolTip": "BLL\\Services\\AlertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:12:27.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:19:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.json",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T07:10:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:27:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recurring.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Recurring.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Recurring.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Recurring.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Recurring.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:34:22.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BudgetDTO.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\BudgetDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\BudgetDTO.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\BudgetDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\BudgetDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:51:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseRepo.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\ExpenseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\ExpenseRepo.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\ExpenseRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\ExpenseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:37:30.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BudgetRepo.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\BudgetRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\BudgetRepo.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\BudgetRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\BudgetRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:39:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlertRepo.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\AlertRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\AlertRepo.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\AlertRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\AlertRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:39:47.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ExpenseService.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "BLL\\Services\\ExpenseService.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAUwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:06:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:19:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:31:57.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Report.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Budget\\Report.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Report.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Budget\\Report.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:38:51.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExpenseDTO.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\ExpenseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\ExpenseDTO.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\ExpenseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\ExpenseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:42:44.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Summary.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Summary.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Summary.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Summary.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T09:06:19.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:31:14.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Delete.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Delete.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:32:36.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Search.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Search.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Search.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:33:25.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Budget\\Index.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Budget\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:36:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Budget\\Create.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Create.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Budget\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:37:16.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Budget\\Edit.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Budget\\Edit.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Budget\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:38:13.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Alert\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Alert\\Index.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Alert\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Alert\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:39:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:30:28.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:29:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:27:41.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AlertController.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\AlertController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\AlertController.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\AlertController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\AlertController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:21:44.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\BudgetController.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\BudgetController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:20:47.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SummaryDTO.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\SummaryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\SummaryDTO.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\SummaryDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\SummaryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:54:00.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\UserDTO.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:52:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AlertDTO.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\AlertDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\AlertDTO.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\DTO\\AlertDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\AlertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:52:14.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\CategoryRepo.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:41:35.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\UserRepo.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Repo\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:40:39.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExpenseTrackerDbContext.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\EF\\ExpenseTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\ExpenseTrackerDbContext.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\EF\\ExpenseTrackerDbContext.cs",
+              "RelativeToolTip": "DAL\\EF\\ExpenseTrackerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:23:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T07:15:04.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:12:44.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "E:\\DOTNET Project\\ExpenseTracker\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:12:32.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
